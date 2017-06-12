@@ -7,6 +7,10 @@
   width: 75%;
 }
 
+.search-bar input {
+  padding-left: 5px;
+}
+
 .video-item img {
   max-width: 64px;
 }
@@ -24,4 +28,8 @@
 
 .list-group-item:hover {
   background-color: #eee;
+}
+
+.video-list-media {
+  overflow: hidden;
 }
